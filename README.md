@@ -41,6 +41,8 @@ Ikuti langkah-langkah berikut untuk menjalankan project ini di komputer Anda:
 * **Browser:** Google Chrome, Firefox, atau sejenisnya.
 * **Text Editor:** VSCode, Sublime Text, atau sejenisnya.
 
+* ![](ss.png)
+
 ### 2. Konfigurasi XAMPP
 1.  Pastikan **Apache** dan **MySQL** sudah di-Start/Running melalui XAMPP Control Panel.
 
