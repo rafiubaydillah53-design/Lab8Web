@@ -16,12 +16,17 @@ Tampilan aplikasi ini telah dimodifikasi menggunakan CSS dengan tema **Modern Bi
 
 ### Halaman Data Barang (READ)
 
+![](Halaman_barang.png)
+
 
 ### Halaman Tambah Barang (CREATE)
+
+![](Halaman_tambah.png)
 
 
 ### Halaman Ubah Barang (UPDATE)
 
+![](Halaman_ubah.png)
 
 <br>
 
